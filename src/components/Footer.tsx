@@ -1,4 +1,3 @@
-
 import {
   Mail,
   Phone,
@@ -41,8 +40,8 @@ const Footer = () => {
           <div>
             <h3 className="font-bold text-lg mb-4">Paolo</h3>
             <p className="text-muted-foreground mb-4 max-w-xs">
-              Front-end developer passionate about creating beautiful,
-              functional, and user-friendly web experiences.
+              Full-stack developer specializing in building responsive,
+              user-friendly, and scalable web applications
             </p>
             <div className="flex space-x-4">
               <a

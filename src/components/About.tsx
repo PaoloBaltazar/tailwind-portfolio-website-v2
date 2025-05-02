@@ -77,9 +77,11 @@ const About = () => {
                   <AvatarFallback className="text-4xl">P</AvatarFallback>
                 </Avatar>
               </div>
-              <h3 className="text-xl font-semibold text-center">Paolo</h3>
+              <h3 className="text-xl font-semibold text-center">
+                Gabriel Paolo Baltazar
+              </h3>
               <p className="text-center text-muted-foreground">
-                Front-end Developer
+                Full-Stack Developer
               </p>
               <div className="mt-4 flex justify-center space-x-2">
                 <Badge variant="secondary" className="px-3 py-1">
