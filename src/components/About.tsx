@@ -108,13 +108,11 @@ const About = () => {
                   Background
                 </h3>
                 <p className="mb-4 leading-relaxed">
-                  Hi, I'm Paolo—a passionate front-end developer with a strong
-                  focus on creating clean, responsive, and user-friendly web
-                  interfaces. I specialize in turning ideas into interactive
-                  digital experiences using technologies like HTML, CSS,
-                  JavaScript, and React. Beyond design and functionality, I'm a
-                  natural problem solver who enjoys tackling challenges and
-                  finding efficient, creative solutions.
+                  Hi, I'm Paolo—a passionate Full-stack developer dedicated to
+                  building clean, responsive, and user-focused digital
+                  solutions. I enjoy working across both frontend and backend to
+                  create seamless, reliable experiences, and I'm driven by a
+                  love for solving problems with efficient, creative thinking.
                 </p>
                 <p className="text-muted-foreground border-l-2 border-primary/50 pl-4 italic">
                   When I'm not coding, you can find me reading books, learning

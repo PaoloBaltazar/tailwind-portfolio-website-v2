@@ -1,4 +1,3 @@
-
 import {
   Card,
   CardContent,
@@ -14,12 +13,21 @@ import bchainProject from "../assets/bchainProject.png";
 import littlelemonProject from "../assets/little-lemon.png";
 import thesisProject from "../assets/thesisProject.png";
 import portfolioProject from "../assets/portfolioProject.png";
-import weatherApp from "../assets/weather-app.png";
+import trackflow from "../assets/trackflow.png";
 import todoList from "../assets/todo-list.png";
 
 const projects = [
   {
     id: 1,
+    title: "Track Flow",
+    description:
+      "TrackFlow is a streamlined task and document management system designed to help teams organize, track, and complete deliverables efficiently across departments.",
+    image: trackflow,
+    tags: ["MERN", "TypeScript", "Tailwind CSS"],
+    link: "https://github.com/PaoloBaltazar/TrackFlow-MERN",
+  },
+  {
+    id: 2,
     title: "Grade Predictor App",
     description:
       "The Grade Predictor App is a machine learning-powered tool that estimates students' final grades based on their academic performance",
@@ -28,7 +36,7 @@ const projects = [
     link: "https://github.com/PaoloBaltazar/thesis-grade-predictor-app",
   },
   {
-    id: 2,
+    id: 3,
     title: "Little Lemon Booking Website",
     description:
       "The Meta Little Lemon Booking Website is a responsive restaurant reservation platform built with React, designed to streamline table bookings and enhance user experience",
@@ -37,7 +45,7 @@ const projects = [
     link: "https://github.com/PaoloBaltazar/Meta-LittleLemon-Booking-Website",
   },
   {
-    id: 3,
+    id: 4,
     title: "Hotel Dapp",
     description:
       "The Hotel dApp is a decentralized hotel booking application built with React and Solidity, enabling secure room reservations and transparent payments on the blockchain.",
@@ -46,22 +54,13 @@ const projects = [
     link: "https://github.com/PaoloBaltazar/BlockChain-Based-Hotel-System",
   },
   {
-    id: 4,
+    id: 5,
     title: "Portfolio Website V1",
     description:
       "The Portfolio Website is a sleek, single-page React application showcasing my projects, skills, and contact information with smooth scroll navigation and responsive design.",
     image: portfolioProject,
     tags: ["TypeScript", "React/Vite", "Tailwind CSS"],
     link: "https://github.com/PaoloBaltazar/tailwind-portfolio-website",
-  },
-  {
-    id: 5,
-    title: "Weather App",
-    description:
-      "The Weather App is a real-time weather forecasting tool that provides current conditions, forecasts, and interactive maps using data from various weather APIs.",
-    image: weatherApp,
-    tags: ["HTML/CSS", "JavaScript"],
-    link: "https://github.com/PaoloBaltazar/Weather-App",
   },
   {
     id: 6,
