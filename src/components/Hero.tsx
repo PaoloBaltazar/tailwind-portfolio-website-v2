@@ -29,7 +29,7 @@ const Hero = () => {
   // Handle resume download
   const handleDownloadResume = () => {
     // This is a placeholder URL - replace with actual resume file path
-    const resumeUrl = "/resume.pdf";
+    const resumeUrl = "/updated-resume.pdf";
 
     // Create temporary link and click it
     const link = document.createElement("a");
