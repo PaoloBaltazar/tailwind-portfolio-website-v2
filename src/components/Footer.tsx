@@ -20,7 +20,7 @@ const Footer = () => {
   // Handle resume download
   const handleDownloadResume = () => {
     // This is a placeholder URL - replace with actual resume file path
-    const resumeUrl = "/resume.pdf";
+    const resumeUrl = "/updated-resume.pdf";
 
     // Create temporary link and click it
     const link = document.createElement("a");
@@ -40,7 +40,7 @@ const Footer = () => {
           <div>
             <h3 className="font-bold text-lg mb-4">Paolo</h3>
             <p className="text-muted-foreground mb-4 max-w-xs">
-              Full-stack developer specializing in building responsive,
+              Web Developer specializing in building responsive,
               user-friendly, and scalable web applications
             </p>
             <div className="flex space-x-4">
@@ -150,7 +150,7 @@ const Footer = () => {
                     href="tel:09605260393"
                     className="hover:text-primary transition-colors"
                   >
-                    09605260393
+                    09765737246
                   </a>
                 </div>
               </li>
