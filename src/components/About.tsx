@@ -81,7 +81,7 @@ const About = () => {
                 Gabriel Paolo Baltazar
               </h3>
               <p className="text-center text-muted-foreground">
-                Full-Stack Developer
+                Web Developer
               </p>
               <div className="mt-4 flex justify-center space-x-2">
                 <Badge variant="secondary" className="px-3 py-1">
@@ -91,7 +91,7 @@ const About = () => {
                   variant="outline"
                   className="px-3 py-1 border-primary/30"
                 >
-                  Web Developer
+                  Developer
                 </Badge>
               </div>
             </div>
@@ -108,7 +108,7 @@ const About = () => {
                   Background
                 </h3>
                 <p className="mb-4 leading-relaxed">
-                  Hi, I'm Paolo—a passionate Full-stack developer dedicated to
+                  Hi, I'm Paolo—a passionate Web Developer dedicated to
                   building clean, responsive, and user-focused digital
                   solutions. I enjoy working across both frontend and backend to
                   create seamless, reliable experiences, and I'm driven by a
