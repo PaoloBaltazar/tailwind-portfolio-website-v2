@@ -92,7 +92,7 @@ const Hero = () => {
               </span>
             </h1>
             <p className="max-w-[42rem] text-xl text-muted-foreground sm:text-2xl mt-4 mb-8">
-              Full-stack developer specializing in building responsive,
+              Web Developer specializing in building responsive,
               user-friendly, and scalable web applications
             </p>
           </div>
